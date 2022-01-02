@@ -1,1 +1,36 @@
-keke
+body {
+    text-align: center;
+    background-color: black;
+}
+footer {
+    text-align: right;
+}
+
+#first_h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.hyperlink {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
+
+.second_h1 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+    font-family: Verdana;
+}
+
+#camp {
+    width: 100%;
+}
